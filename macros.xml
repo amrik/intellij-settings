@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="go save">
+      <action id="GoImportsFileAction" />
+      <action id="GoVetFileAction" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
