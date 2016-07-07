@@ -1,9 +1,11 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
   <action id="$SelectAll">
     <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="Editor SelectAll">
     <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
