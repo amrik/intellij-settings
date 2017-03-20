@@ -1,0 +1,21 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.6.0 (/usr/bin/python3.6) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file:///usr/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/-1247971763" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file:///usr/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.3/system/python_stubs/-1247971763" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
