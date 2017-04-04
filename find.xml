@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[cwn] - .../js/web/src/app/components/StripeForm.js'" />
-    <option name="defaultScopeName" value="File '[cwn] - .../js/web/src/app/components/StripeForm.js'" />
-    <option name="SEARCH_SCOPE" value="File '[cwn] - .../js/web/src/app/components/StripeForm.js'" />
-    <option name="FILE_MASK" value="*.go" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
