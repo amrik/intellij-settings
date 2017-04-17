@@ -3,9 +3,13 @@
     <keyboard-shortcut first-keystroke="alt s" />
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="CheckinProject" />
   <action id="Editor SelectAll">
     <keyboard-shortcut first-keystroke="alt s" />
     <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
