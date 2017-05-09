@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.proto" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,7 +18,6 @@
       <mask>*.jsx</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
-      <mask>*.proto</mask>
       <mask>*.go</mask>
       <mask>a</mask>
       <mask>ap</mask>
@@ -30,8 +29,10 @@
       <mask>*.happ.yaml</mask>
       <mask>*.app.yaml</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.proto</mask>
     </recentFileMasks>
   </component>
 </application>
