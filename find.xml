@@ -23,17 +23,17 @@
       <mask>*.hjapp.yaml</mask>
       <mask>*.happ.yaml</mask>
       <mask>*.app.yaml</mask>
-      <mask>*</mask>
       <mask>*.jsx</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.proto</mask>
       <mask>*.go</mask>
       <mask>M</mask>
       <mask>Makefi</mask>
       <mask>Makefile</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
