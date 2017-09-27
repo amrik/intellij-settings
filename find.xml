@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.gi</mask>
@@ -26,7 +26,6 @@
       <mask>M</mask>
       <mask>Makefi</mask>
       <mask>Makefile</mask>
-      <mask>*.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.hj</mask>
@@ -35,6 +34,7 @@
       <mask>*.htl</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
