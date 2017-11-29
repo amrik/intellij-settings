@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test*" />
     <recentFileMasks>
-      <mask>app</mask>
-      <mask>app.yaml</mask>
-      <mask>*app.yaml</mask>
       <mask>*.hjsapp.yaml</mask>
       <mask>*.hjapp.yaml</mask>
       <mask>*.happ.yaml</mask>
@@ -15,7 +13,6 @@
       <mask>*.j</mask>
       <mask>*.g</mask>
       <mask>*.go</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.hj</mask>
       <mask>*.h</mask>
@@ -34,6 +31,10 @@
       <mask>*.pMakefile</mask>
       <mask>*.protoMakefile</mask>
       <mask>*.proto</mask>
+      <mask>*</mask>
+      <mask>*te</mask>
+      <mask>*test</mask>
+      <mask>*test*</mask>
     </recentFileMasks>
   </component>
 </application>
