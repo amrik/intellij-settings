@@ -19,7 +19,7 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
-  <action id="Macro.go save 2">
+  <action id="Macro.go save 4">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="RecentFiles" />
