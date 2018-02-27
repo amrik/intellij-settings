@@ -6,7 +6,6 @@
       <mapping pattern="FrequencyFilter" type="PLAIN_TEXT" />
       <mapping pattern="fill_placemarks_for_sites_test" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
