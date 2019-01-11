@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="ProfileForm2" type="PLAIN_TEXT" />
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="fill_placemarks_for_sites_test" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="FrequencyFilter" type="PLAIN_TEXT" />
-      <mapping pattern="fill_placemarks_for_sites_test" type="PLAIN_TEXT" />
+      <mapping pattern="ProfileForm2" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
